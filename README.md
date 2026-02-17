@@ -1,8 +1,9 @@
 # This was Fork from : [ianshulx - React-projects-for-beginners](https://github.com/ianshulx/React-projects-for-beginners)
-Fix MovieCard App.css Error. 
 
+##Fix MovieCard App.css Error. 
+---
 ## for depecrated NPM solution. 
-
+---
 ### Delete package-lock.json
 
 ```bash
